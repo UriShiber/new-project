@@ -1,8 +1,0 @@
-# vue
-.DS_Store
-node_modules/
-/dist
-/public
-
-# Editor directories and files
-.vscode
